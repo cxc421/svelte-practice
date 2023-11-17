@@ -3,6 +3,7 @@
     { url: "/01-toggle-menu", title: "Toggle Menu" },
     { url: "/02-alertbox", title: "Alertbox" },
     { url: "/03-photo-viewer", title: "Photo Viewer" },
+    { url: "/04-tab", title: "Tab" },
   ];
 </script>
 
