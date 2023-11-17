@@ -2,6 +2,7 @@
   const pages = [
     { url: "/01-toggle-menu", title: "Toggle Menu" },
     { url: "/02-alertbox", title: "Alertbox" },
+    { url: "/03-photo-viewer", title: "Photo Viewer" },
   ];
 </script>
 
