@@ -1,5 +1,8 @@
 <script lang="ts">
-  const pages = [{ url: "/01-toggle-menu", title: "Toggle Menu" }];
+  const pages = [
+    { url: "/01-toggle-menu", title: "Toggle Menu" },
+    { url: "/02-alertbox", title: "Alertbox" },
+  ];
 </script>
 
 <div class="container">
