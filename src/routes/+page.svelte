@@ -5,6 +5,7 @@
     { url: "/03-photo-viewer", title: "Photo Viewer" },
     { url: "/04-tab", title: "Tab" },
     { url: "/05-dropdown-menu", title: "Dropdown Menu" },
+    { url: "/06-floating-menu", title: "Floating Menu" },
   ];
 </script>
 
