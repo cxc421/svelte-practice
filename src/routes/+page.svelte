@@ -7,6 +7,7 @@
     { url: "/05-dropdown-menu", title: "Dropdown Menu" },
     { url: "/06-floating-menu", title: "Floating Menu" },
     { url: "/07-lightbox-modal", title: "LoghtBox + Modal" },
+    { url: "/08-photo-caption", title: "Photo Caption" },
   ];
 </script>
 
