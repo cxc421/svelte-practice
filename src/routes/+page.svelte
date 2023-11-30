@@ -9,6 +9,7 @@
     { url: "/07-lightbox-modal", title: "LoghtBox + Modal" },
     { url: "/08-photo-caption", title: "Photo Caption" },
     { url: "/09-tooltip", title: "Tooltip" },
+    { url: "/10-equal-height", title: "Equal Height" },
   ];
 </script>
 
