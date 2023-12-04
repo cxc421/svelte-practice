@@ -10,6 +10,8 @@
     { url: "/08-photo-caption", title: "Photo Caption" },
     { url: "/09-tooltip", title: "Tooltip" },
     { url: "/10-equal-height", title: "Equal Height" },
+    { url: "/11-text-resizer", title: "Text Resizer" },
+    { url: "/12-parallax", title: "Parallax" },
   ];
 </script>
 
