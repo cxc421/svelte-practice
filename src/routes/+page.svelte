@@ -12,6 +12,7 @@
     { url: "/10-equal-height", title: "Equal Height" },
     { url: "/11-text-resizer", title: "Text Resizer" },
     { url: "/12-parallax", title: "Parallax" },
+    { url: "/13-filtering", title: "Filtering" },
   ];
 </script>
 
