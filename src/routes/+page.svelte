@@ -13,6 +13,7 @@
     { url: "/11-text-resizer", title: "Text Resizer" },
     { url: "/12-parallax", title: "Parallax" },
     { url: "/13-filtering", title: "Filtering" },
+    { url: "/14-row-col-highlight", title: "Row and Column Highlighting" },
   ];
 </script>
 
