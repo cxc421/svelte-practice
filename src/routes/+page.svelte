@@ -15,6 +15,7 @@
     { url: "/13-filtering", title: "Filtering" },
     { url: "/14-row-col-highlight", title: "Row and Column Highlighting" },
     { url: "/15-accordion", title: "Accordion" },
+    { url: "/16-smooth-scroll", title: "Smooth Scroll" },
   ];
 </script>
 
