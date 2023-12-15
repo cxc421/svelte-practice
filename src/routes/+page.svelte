@@ -17,6 +17,7 @@
     { url: "/15-accordion", title: "Accordion" },
     { url: "/16-smooth-scroll", title: "Smooth Scroll" },
     { url: "/17-random-banner", title: "Random Banner" },
+    { url: "/18-form-validation", title: "Form Validation" },
   ];
 </script>
 
