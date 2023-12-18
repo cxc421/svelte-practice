@@ -18,6 +18,7 @@
     { url: "/16-smooth-scroll", title: "Smooth Scroll" },
     { url: "/17-random-banner", title: "Random Banner" },
     { url: "/18-form-validation", title: "Form Validation" },
+    { url: "/19-resize-header", title: "Resize Header" },
   ];
 </script>
 
