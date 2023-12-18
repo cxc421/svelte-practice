@@ -1,14 +1,5 @@
 <script lang="ts">
-  import { onMount } from "svelte";
-
-  const bannerArray = ["red", "yellow", "green", "blue", "brown"];
-
-  let bannerImg: string | null = null;
-
-  onMount(() => {
-    const idx = Math.floor(Math.random() * bannerArray.length);
-    bannerImg = `/17/img/${bannerArray[idx]}.jpg`;
-  });
+  export let data;
 </script>
 
 <div class="container">
@@ -49,9 +40,7 @@
     </div>
     <div id="right">
       <aside>
-        {#if bannerImg}
-          <img src={bannerImg} width="300" height="240" alt="banner" />
-        {/if}
+        <img src={data.bannerImg} width="300" height="240" alt="banner" />
       </aside>
     </div>
   </div>
