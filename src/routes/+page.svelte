@@ -19,6 +19,7 @@
     { url: "/17-random-banner", title: "Random Banner" },
     { url: "/18-form-validation", title: "Form Validation" },
     { url: "/19-resize-header", title: "Resize Header" },
+    { url: "/20-sticky-header", title: "Sticky Header" },
   ];
 </script>
 
