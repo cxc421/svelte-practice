@@ -20,6 +20,7 @@
     { url: "/18-form-validation", title: "Form Validation" },
     { url: "/19-resize-header", title: "Resize Header" },
     { url: "/20-sticky-header", title: "Sticky Header" },
+    { url: "/21-highlight-menu", title: "Highlight Menu" },
   ];
 </script>
 
