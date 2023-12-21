@@ -21,6 +21,7 @@
     { url: "/19-resize-header", title: "Resize Header" },
     { url: "/20-sticky-header", title: "Sticky Header" },
     { url: "/21-highlight-menu", title: "Highlight Menu" },
+    { url: "/22-horizontal-slider", title: "Horizontal Slider" },
   ];
 </script>
 
