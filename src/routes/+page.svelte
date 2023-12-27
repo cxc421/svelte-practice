@@ -23,6 +23,7 @@
     { url: "/21-highlight-menu", title: "Highlight Menu" },
     { url: "/22-horizontal-slider", title: "Horizontal Slider" },
     { url: "/23-fade-slider", title: "Fade Slider" },
+    { url: "/24-zoom-effect", title: "Zoom Effect" },
   ];
 </script>
 
