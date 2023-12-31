@@ -25,6 +25,7 @@
     { url: "/23-fade-slider", title: "Fade Slider" },
     { url: "/24-zoom-effect", title: "Zoom Effect" },
     { url: "/25-count-up-game", title: "Count Up Game" },
+    { url: "/26-parallax-v2", title: "Parallax V2" },
   ];
 </script>
 
